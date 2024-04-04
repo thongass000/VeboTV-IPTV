@@ -57,6 +57,9 @@ https://obevcimanyd179314182.thapcam.link/live/may22/playlist.m3u8#|Referer=http
 #EXTINF:-1 group-title="Về bờ TV" tvg-id="vebomay71" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv 71
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179314182.thapcam.link/live/may71/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="Về bờ TV" tvg-id="vebomay711" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv 711
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may711/playlist.m3u8#|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="Về bờ TV" tvg-id="vebomay91" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv 91
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179314182.thapcam.link/live/may91/playlist.m3u8#|Referer=https://xem.bdhub.xyz
