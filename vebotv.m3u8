@@ -64,7 +64,12 @@ https://obevcimanyd179314182.thapcam.link/live/may211/playlist.m3u8#|Referer=htt
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179314182.thapcam.link/live/may911/playlist.m3u8#|Referer=https://xem.bdhub.xyz
 
-
+#EXTINF:-1 group-title="Về bờ TV" tvg-id="veboz1" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv Z1 FHD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/Z1FHD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="Về bờ TV" tvg-id="veboz2" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv Z2 FHD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/Z2FHD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="Về bờ TV" tvg-id="veboold" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv FHD (Old)
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
@@ -113,13 +118,6 @@ https://obevcimanyd179249207.thapcam.link/live/momFHD/playlist.m3u8#|Referer=htt
 #EXTINF:-1 group-title="Về bờ TV" tvg-id="vebocun" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv FHD (Cún)
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179249207.thapcam.link/live/cunFHD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-id="veboz1" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv Z1 FHD
-#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/Z1FHD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-id="vebosoi" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv FHD (Sói)
-#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/Z2FHD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
-
 
 
 #EXTINF:-1 group-title="Về bờ TV" tvg-id="vebomay00" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv 0 HD
@@ -134,6 +132,12 @@ https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may2HD/playlist.m3u8#|Referer=ht
 #EXTINF:-1 group-title="Về bờ TV" tvg-id="vebomay3" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv 3 HD
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may3HD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="Về bờ TV" tvg-id="veboz1" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv Z1 HD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-eu-ay5eg6kw5uliv.thapcam.link/live/Z1HD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="Về bờ TV" tvg-id="veboz2" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv Z2 HD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-eu-ay5eg6kw5uliv.thapcam.link/live/Z2HD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="Về bờ TV" tvg-id="veboold" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv HD (Old)
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://live-eu-ay5eg6kw5uliv.thapcam.link/live/oldHD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
@@ -183,12 +187,6 @@ https://live-eu-ay5eg6kw5uliv.thapcam.link/live/momHD/playlist.m3u8#|Referer=htt
 #EXTINF:-1 group-title="Về bờ TV" tvg-id="vebocun" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv HD (Cún)
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://live-eu-ay5eg6kw5uliv.thapcam.link/live/cunHD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-id="veboz1" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv Z1 HD
-#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/Z1HD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-id="vebosoi" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv HD (Sói)
-#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/Z2HD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
 
 
 #EXTINF:-1 group-title="Về bờ TV" tvg-id="vebomay00" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv 0 SD
@@ -203,6 +201,12 @@ https://live-kh-1123139281.thapcam.link/may2SD/playlist.m3u8#|Referer=https://xe
 #EXTINF:-1 group-title="Về bờ TV" tvg-id="vebomay3" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv 3 SD
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://live-kh-1123139281.thapcam.link/may3SD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="Về bờ TV" tvg-id="veboz1" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv Z1 SD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-kh-1123139281.thapcam.link/Z1SD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="Về bờ TV" tvg-id="veboz2" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv Z2 SD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-kh-1123139281.thapcam.link/Z2SD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="Về bờ TV" tvg-id="veboold" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv SD (Old)
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://live-kh-1123139281.thapcam.link/oldSD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
@@ -251,9 +255,3 @@ https://live-kh-1123139281.thapcam.link/momSD/playlist.m3u8#|Referer=https://xem
 #EXTINF:-1 group-title="Về bờ TV" tvg-id="vebocun" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv SD (Cún)
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://live-kh-1123139281.thapcam.link/cunSD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-id="veboz1" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv Z1 SD
-#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-kh-1123139281.thapcam.link/Z1SD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-id="vebosoi" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv SD (Sói)
-#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-kh-1123139281.thapcam.link/Z2SD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
