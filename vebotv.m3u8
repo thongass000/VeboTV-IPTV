@@ -224,7 +224,7 @@ https://live-eu-ay5eg6kw5uliv.thapcam.link/live/caHD/playlist.m3u8#|Referer=http
 https://live-eu-ay5eg6kw5uliv.thapcam.link/live/lungHD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="Về bờ TV" tvg-id="vebonui" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv HD (Núi)
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-eu-cizve9esipliv.thapcam.link/nuiHD/index.m3u8#|Referer=https://xem.bdhub.xyz
+https://live-eu-ay5eg6kw5uliv.thapcam.link/live/nuiHD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="Về bờ TV" tvg-id="vebomom" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv HD (Móm)
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://live-eu-ay5eg6kw5uliv.thapcam.link/live/momHD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
